@@ -1,0 +1,14 @@
+﻿一个公司的交易数据由几条信息描述：
+label : 标签（ 0 - Normal, 1 - Fraud )
+features: f01->F81
+
+需要针对检测交易欺诈问题的解决方案策略。包括以下一些步骤：
+1. 数据描述 (Data Description)
+2. 特征工程 (Feature Engineering)
+3. 数据过滤 (Data Filtering)
+4. 探索性数据分析 (Exploratory Data Analysis)
+5. 数据准备 (Data Preparation)
+6. 特征选择 (Feature Selection)
+7. 机器学习建模 (Machine Learning Modeling)
+8. 结论 (Conclusions)
+9. 模型部署 (Model Deploy - Docker)

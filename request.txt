@@ -1,0 +1,15 @@
+﻿Dữ liệu giao dịch của một công ty được mô tả bởi một số thông tin:
+label : Nhãn （ 0 - Normal, 1 - Fraud )
+features: f01->F81
+
+Yêu cầu đưa ra chiến lược giải pháp cho bài toán phát hiện gian lận trong giao dịch. Bao gồm một số bước sau
+Data Description
+Feature Engineering
+Data Filtering
+Exploratory Data Analysis
+Data Preparation
+Feature Selection
+Machine Learning Modeling
+Conclusions
+Model Deploy(Docker)
+
